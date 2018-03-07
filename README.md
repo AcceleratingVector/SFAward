@@ -1,7 +1,7 @@
 
 OVERVIEW
 ======================
-Setup to display images across a grid of displays. Current set to 4 oleds.
+Setup to display images across a grid of displays. Currently set to 4 oleds.
 
 Uses an esp32 to drive the screens
 

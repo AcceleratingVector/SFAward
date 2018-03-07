@@ -1,0 +1,92 @@
+{
+	/*
+	Type Codes:
+		Image Bounce 		 = 1
+		Image to all Screens = 2
+		Flash the screens	 = 3
+		Clear the Screens    = 4
+		Scroll an Image      = 5
+		Wait  (ms)           = 6
+		Image Flash          = 7
+
+	*/
+	"theshow":[
+		{
+			"type" 	: 1,
+			"image"	: "sparkfun",
+			"times" : 2
+		},
+		{
+			"type" 	: 2,
+			"image"	: "sparkfun"
+		},
+		{
+			"type" 	: 3,
+			"times"	: 4
+		},
+		{
+			"type" 	: 4
+		},
+		{
+			"type" 	: 5,
+			"image"	: "timh"
+		},
+		{
+			"type" 	: 6,
+			"times"	: 100
+		},
+		{
+			"type" 	: 1,
+			"image"	: "10year",
+			"times" : 3
+		},
+		{
+			"type" 	: 4
+		},
+		{
+			"type" 	: 6,
+			"times"	: 100
+		},
+		{
+			"type" 	: 7,
+			"image"	: "anniversary",
+			"times" : 8,
+			"offset": 0
+		},
+		{
+			"type" 	: 6,
+			"time"	: 100
+		},
+		{
+			"type" 	: 2,
+			"image"	: "sparkfun"
+		},
+		{
+			"type" 	: 3,
+			"times"	: 4
+		},
+		{
+			"type" 	: 7,
+			"image"	: "awesome",
+			"times" : 8,
+			"offset": 0
+		},
+		{
+			"type" 	: 2,
+			"image"	: "sparkfun"
+		},
+		{
+			"type" 	: 3,
+			"times"	: 4
+		},
+		{
+			"type" 	: 1,
+			"image"	: "sparkfun",
+			"times" : 2
+		},
+		{
+			"type" 	: 4
+		}
+
+	]
+}

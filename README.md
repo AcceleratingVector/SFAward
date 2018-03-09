@@ -89,7 +89,7 @@ DEPENDANCIES
 * **[LDC Assistant](http://en.radzio.dxp.pl/bitmap_converter/)**
 * **[Arduino JSON](https://github.com/bblanchon/ArduinoJson)**
 * **[ESP32 Arduino](https://github.com/espressif/arduino-esp32)**
-* **[Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin) **
+* **[Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin)**
 * **[SparkFun ESP32 Thing](https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide)**
 * **[Circuit Design Inspiration](https://github.com/awende/OLED_Clock)**
 

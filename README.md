@@ -84,7 +84,7 @@ flash the board with this routine and reboot the device.
 
 DEPENDANCIES
 ------------
-* **[SparkFun OLED Library]( https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library/tree/V_1.0.0SparkFun)**  
+* **[SparkFun OLED Library](https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library/)**  
 * **[Arduino Log](https://github.com/thijse/Arduino-Log)**
 * **[LDC Assistant](http://en.radzio.dxp.pl/bitmap_converter/)**
 * **[Arduino JSON](https://github.com/bblanchon/ArduinoJson)**
